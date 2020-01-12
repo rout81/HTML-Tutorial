@@ -1,0 +1,24 @@
+/*Selector {
+    property: value;
+}*/
+.stylish-paragraph {
+    color:blue; font-size:25px; border: 2px dashed red; background-color:darkgray; width=100% max-width: 500px; padding: 25px;
+}
+.nav1 {
+    display:inline; float: none; background-color: lightcoral; padding:2%; margin-right:70%;
+}
+.list {
+    display:inline;
+}
+.test1 {
+    position:static; bottom:0px; right:0px; width:90px; height:100px; background-color: blue;
+}
+.test2 {
+    width:130px; height:120px; background-color:red;
+}
+.Lorem1 {
+    font-size:2em; font-family:'Verdana', Geneva, Tahoma, sans-serif
+}
+.Lorem2 {
+    font-size:1.5em; font-family:'Arial', Helvetica, sans-serif; font-weight:bold; font-style: italic; color:cornflowerblue; font-variant: unset;
+}
